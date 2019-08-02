@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Helvetica Neue";
-  src: url(/security-fire-assets/HelveticaNeueCyr-Roman.eot);
-  src: url(/security-fire-assets/HelveticaNeueCyr-Roman.eot?#iefix) format("embedded-opentype"), url(/security-fire-assets/HelveticaNeueCyr-Roman.woff) format("woff"), url(/security-fire-assets/HelveticaNeueCyr-Roman.ttf) format("truetype");
+  src: url(security-fire-assets/HelveticaNeueCyr-Roman.eot);
+  src: url(security-fire-assets/HelveticaNeueCyr-Roman.eot?#iefix) format("embedded-opentype"), url(security-fire-assets/HelveticaNeueCyr-Roman.woff) format("woff"), url(security-fire-assets/HelveticaNeueCyr-Roman.ttf) format("truetype");
   font-weight: normal;
   font-style: normal; }
 
@@ -361,7 +361,7 @@ body {
     .auto-control__quote:before {
       position: absolute;
       content: "";
-      background: url(/security-fire-assets/quote-left.png);
+      background: url(security-fire-assets/quote-left.png);
       width: 30px;
       height: 30px;
       left: -55px;
@@ -369,7 +369,7 @@ body {
     .auto-control__quote:after {
       position: absolute;
       content: "";
-      background: url(/security-fire-assets/quote-right.png);
+      background: url(security-fire-assets/quote-right.png);
       width: 30px;
       height: 30px;
       right: 15px;
